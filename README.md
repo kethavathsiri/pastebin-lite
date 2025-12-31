@@ -181,15 +181,13 @@ views
 
 🧩 Design Decisions
 
-Choose Redis/KV for simplicity & low-latency reads
+Chose Redis/KV for simplicity & low-latency reads
 
 Avoided in-memory storage (not reliable on serverless)
 
 Used deterministic TTL testing to support automated grading
 
 Clean minimal UI — functionally focused
-
-📦 Repository Requirements Check
 
 
 
