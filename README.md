@@ -181,7 +181,7 @@ views
 
 🧩 Design Decisions
 
-Chose Redis/KV for simplicity & low-latency reads
+Choose Redis/KV for simplicity & low-latency reads
 
 Avoided in-memory storage (not reliable on serverless)
 
@@ -191,14 +191,7 @@ Clean minimal UI — functionally focused
 
 📦 Repository Requirements Check
 
-This project satisfies:
 
-✔ README included
-✔ Source code present
-✔ No secrets committed
-✔ No hard-coded localhost URLs
-✔ No global mutable server state
-✔ App runs using documented commands
 
 👤 Author
 
