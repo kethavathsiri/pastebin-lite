@@ -10,8 +10,7 @@ This project was built for a take-home assignment. It supports time-based expiry
 
 Production URL:
 
-https://pastebin-lite-delta-ten.vercel.app  
-(or your custom alias)
+https://pastebin-lite-shirisha.vercel.app/
 
 ---
 
