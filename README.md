@@ -41,7 +41,7 @@ https://pastebin-lite-shirisha.vercel.app/
 - Vercel Serverless Functions
 - Upstash Redis / Vercel KV
 - TypeScript
-- Simple CSS (no UI framework)
+- Simple CSS 
 
 ---
 
